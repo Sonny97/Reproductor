@@ -1,0 +1,34 @@
+{
+  "songs":[
+    {
+      "id":0,
+      "name":"E1M1",
+      "artist":"Doom",
+      "song":"music/E1M1.mp3"
+    },
+    {
+      "id":1,
+      "name":"MariachiMadness",
+      "artist":"mexicanos",
+      "song":"music/MariachiMadness.mp3"
+    },
+    {
+      "id":2,
+      "name":"Boston",
+      "artist":"Doom",
+      "song":"music/Boston.mp3"
+    },
+    {
+      "id":3,
+      "name":"Sons of Skyrim",
+      "artist":"Doom",
+      "song":"music/Sons of Skyrim.mp3"
+    },
+    {
+      "id":4,
+      "name":"Tetris",
+      "artist":"Doom",
+      "song":"music/Tetris.mp3"
+    }
+  ]
+}
